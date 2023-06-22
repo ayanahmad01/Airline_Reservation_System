@@ -32,12 +32,12 @@
     GUI was connected with the database.
 
  *Connection of Front End and Back End
+ 
+     Bridge (driver) was required to connect frontend and backend of the project.
 
-   Bridge (driver) was required to connect frontend and backend of the project.
+     JDBC driver was used to connect Java with MySQL for the project.
 
-   JDBC driver was used to connect Java with MySQL for the project.
-
-   Customer, Flight, Admin and Ticket IDs where Auto Generated.
+     Customer, Flight, Admin and Ticket IDs where Auto Generated.
 
 
 #Working of Project-
@@ -58,6 +58,35 @@
     *Table 4- Ticket Table (includes- TicketID, FlightID, CustomerID, Arrival, Departure, FirstName, LastName, Gender, Contact)
 
     ![table4](https://github.com/ayanahmad01/Airline_Reservation_System/assets/136154821/0801c937-9f82-43d6-989b-9f2963c501f2)
+
+
+login page-
+
+![login](https://github.com/ayanahmad01/Airline_Reservation_System/assets/136154821/86accc1f-5d8f-40d8-9515-c974b03d99bc)
+
+
+Main page (includes- Customers, Flights, Tickets, Admin menues)-
+
+![main](https://github.com/ayanahmad01/Airline_Reservation_System/assets/136154821/5d0125a0-6b79-48e6-9364-4829a9ab48de)
+
+
+Add Customer and its database update-
+
+![AddCust](https://github.com/ayanahmad01/Airline_Reservation_System/assets/136154821/e99d8fa3-7c9b-4ebc-8ba0-2d161a47f66c)
+![cust](https://github.com/ayanahmad01/Airline_Reservation_System/assets/136154821/4d77f55a-3fbc-4f9d-8aa3-800eb6a7b368)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
