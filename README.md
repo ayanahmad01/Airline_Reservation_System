@@ -72,42 +72,34 @@ Main page (includes- Customers, Flights, Tickets, Admin menues)-
 
 Add Customer and its database update-
 
-![AddCust](https://github.com/ayanahmad01/Airline_Reservation_System/assets/136154821/e99d8fa3-7c9b-4ebc-8ba0-2d161a47f66c)
+![AddCust1](https://github.com/ayanahmad01/Airline_Reservation_System/assets/136154821/9f8f6352-c35e-46c5-ae7d-3f32108c9fb4)
 ![cust](https://github.com/ayanahmad01/Airline_Reservation_System/assets/136154821/4d77f55a-3fbc-4f9d-8aa3-800eb6a7b368)
 
 
+Search Customer-
+
+![searchCust](https://github.com/ayanahmad01/Airline_Reservation_System/assets/136154821/fddb1040-6efd-4606-b4fe-edc3bcb38bfc)
 
 
+Add flight and its database update-
+
+![AddFlight](https://github.com/ayanahmad01/Airline_Reservation_System/assets/136154821/5c6dc9f2-71cf-4321-9f2a-f3c0acc4fa0a)
+![flt](https://github.com/ayanahmad01/Airline_Reservation_System/assets/136154821/ddb66671-97e6-4fc9-beca-cbc50f34344a)
 
 
+Book Flight and its databse update-
+
+![bookticket](https://github.com/ayanahmad01/Airline_Reservation_System/assets/136154821/f67fe2c2-09d2-4aa6-ba6f-9443a13cf312)
+![tkt](https://github.com/ayanahmad01/Airline_Reservation_System/assets/136154821/3ba2fa1c-33e2-4170-8bca-d40b776fa682)
 
 
+View Ticket-
+
+![viewtkt](https://github.com/ayanahmad01/Airline_Reservation_System/assets/136154821/d0a375a8-0526-4acf-918f-29742bce7dba)
 
 
+Add Admin and its database update-
 
+![addadmin](https://github.com/ayanahmad01/Airline_Reservation_System/assets/136154821/9337d59e-b783-4ad5-8290-f5767b6a42a8)
+![admin](https://github.com/ayanahmad01/Airline_Reservation_System/assets/136154821/577e6986-f254-43a4-9eac-860ec4eea5ed)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
