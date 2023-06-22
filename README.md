@@ -1,4 +1,4 @@
-#AccioJOb Placement Readiness-June First Major Project
+#AccioJob Placement Readiness-June First Major Project
 ## Airline_Reservation_System
 
 #Highlights of Project-
