@@ -5,7 +5,7 @@
   
   The project includes a UI, also known as GUI (Graphical User Interface), which consists of buttons, text fields, and other graphical elements used to interact with the user.
   
-  The GUI will be built using the Java Swing library.
+  The GUI was built using the Java Swing library.
   
   Task division: Front end and back end.
   
