@@ -31,13 +31,14 @@
 
     GUI was connected with the database.
 
+    Customer, Flight, Admin and Ticket IDs where Auto Generated.
+ 
  *Connection of Front End and Back End
  
      Bridge (driver) was required to connect frontend and backend of the project.
 
      JDBC driver was used to connect Java with MySQL for the project.
 
-     Customer, Flight, Admin and Ticket IDs where Auto Generated.
 
 
 #Working of Project-
