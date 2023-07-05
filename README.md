@@ -48,19 +48,19 @@
    
     *Table 1- Admin Table (includes- AdminID, FirstName, LAstName, Username, Password)
 
-    ![table1](https://github.com/ayanahmad01/Airline_Reservation_System/assets/136154821/a50c7c60-944a-43f5-ad93-d80d8d54cccf)
+  ![table1](https://github.com/ayanahmad01/Airline_Reservation_System/assets/136154821/a50c7c60-944a-43f5-ad93-d80d8d54cccf)
 
     *Table 2- Customer Table (includes- CustomerId, FirstName, LastName, Passport No, NationalID, Address, Gender, D.O.B)
 
-    ![table2](https://github.com/ayanahmad01/Airline_Reservation_System/assets/136154821/fe35ba17-52c9-42a3-ab7f-e806ac1ce0c9)
+  ![table2](https://github.com/ayanahmad01/Airline_Reservation_System/assets/136154821/fe35ba17-52c9-42a3-ab7f-e806ac1ce0c9)
 
     *Table 3- Flight Table (includes- FlightID, FlightName, Arrival, Departure, Duration, Seats, Fare, D.O.F)
 
-    ![table 3](https://github.com/ayanahmad01/Airline_Reservation_System/assets/136154821/fca5b87b-4e5b-49b9-98ce-f3090aad10f0)
+  ![table 3](https://github.com/ayanahmad01/Airline_Reservation_System/assets/136154821/fca5b87b-4e5b-49b9-98ce-f3090aad10f0)
 
     *Table 4- Ticket Table (includes- TicketID, FlightID, CustomerID, Arrival, Departure, FirstName, LastName, Gender, Contact)
 
-    ![table4](https://github.com/ayanahmad01/Airline_Reservation_System/assets/136154821/0801c937-9f82-43d6-989b-9f2963c501f2)
+  ![table4](https://github.com/ayanahmad01/Airline_Reservation_System/assets/136154821/0801c937-9f82-43d6-989b-9f2963c501f2)
 
 
 login page-
