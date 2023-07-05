@@ -52,7 +52,8 @@
 
     *Table 2- Customer Table (includes- CustomerId, FirstName, LastName, Passport No, NationalID, Address, Gender, D.O.B)
 
-  ![table2](https://github.com/ayanahmad01/Airline_Reservation_System/assets/136154821/fe35ba17-52c9-42a3-ab7f-e806ac1ce0c9)
+  ![table2](https://github.com/ayanahmad01/Airline_Reservation_System/assets/136154821/f3e224c5-3d6f-425b-815b-c959a6bad08e)
+
 
     *Table 3- Flight Table (includes- FlightID, FlightName, Arrival, Departure, Duration, Seats, Fare, D.O.F)
 
